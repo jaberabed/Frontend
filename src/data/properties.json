@@ -1,0 +1,49 @@
+[
+  {
+    "Id": 1,
+    "SellRent": 1,
+    "Name": "House 1",
+    "Type": "buy apartment-1",
+    "Price": 11000,
+    "Image": "apartment-1"
+  } ,
+  {
+    "Id": 2,
+    "SellRent": 2,
+    "Name": "House 2",
+    "Type": "rent house-hill-2",
+    "Price": 12000,
+    "Image": "house-hill-2"
+  },
+  {
+    "Id": 3,
+    "SellRent": 1,
+    "Name": "House 3",
+    "Type": "buy duplex-2",
+    "Price": 13000,
+    "Image": "duplex-2"
+  },
+  {
+    "Id": 4,
+    "SellRent": 2,
+    "Name": "House 4",
+    "Type": "rent house-1",
+    "Price": 14000,
+    "Image": "house-1"
+  },
+  {
+    "Id": 5,
+    "SellRent": 1,
+    "Name": "House 5",
+    "Type": "buy 5",
+    "Price": 15000,
+    "Image": "house-3"
+  },
+  {
+    "Id": 6,
+    "SellRent": 2,
+    "Name": "House 6",
+    "Type": "rent 6",
+    "Price": 16000
+  }
+]
